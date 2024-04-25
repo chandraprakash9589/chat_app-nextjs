@@ -10,8 +10,12 @@
   "devDependencies": {
     "@repo/eslint-config": "*",
     "@repo/typescript-config": "*",
+    "add": "^2.0.6",
     "prettier": "^3.2.5",
-    "turbo": "latest"
+    "server": "^1.0.0",
+    "turbo": "latest",
+    "typescript": "^5.4.5",
+    "workspace": "^0.0.1-preview.1"
   },
   "engines": {
     "node": ">=18"
